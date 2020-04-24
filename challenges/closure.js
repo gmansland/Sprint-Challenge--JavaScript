@@ -16,7 +16,7 @@ function myFunction() {
 }
 myFunction();
 
-// Explanation: 
+// Explanation: because its a child 
 
 
 /* Task 2: Counter */
